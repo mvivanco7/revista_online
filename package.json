@@ -1,0 +1,11 @@
+{
+  "name": "revista_online",
+  "version": "1.0.0",
+  "description": "adaptacion de estatica a responsive",
+  "main": "index.js",
+  "scripts": {
+  "compile:sass": "sass --watch assets/sass:assets/css"
+  },
+  "author": "Moisés Vivanco",
+  "license": "ISC"
+}

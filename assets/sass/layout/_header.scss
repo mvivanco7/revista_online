@@ -1,0 +1,21 @@
+.Header{
+  height: $header_height;
+  background: $header_img;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+}
+
+.Header div{
+  position: absolute;
+  bottom: 40px;
+  width: 100%
+}
+
+.Header h1{
+  font-size: $xx-large-size;
+  font-family: $font-family-header;
+  width: 100%
+}

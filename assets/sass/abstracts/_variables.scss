@@ -1,0 +1,47 @@
+// -----------------------------------------------------------------------------
+// Este archivo contiene las variables sass.
+// -----------------------------------------------------------------------------
+
+// 1.- Esquema Patron de colores corporativos
+
+//Primer esquema de colores;
+$white: #fff;
+$platinum: #E6E7E7;
+$light-grey: #D1D1D1;
+// Second Color Scheme
+$fuzzy-wuzzy: #E56353;
+$ruddy-pink: #d76c69;
+$spanish-pink: #ECBCBA;
+
+//Third Color Scheme
+$eerie-black: #121619;
+$raisin-black: #222323;
+$nickel: #6C6E70;
+
+// 2.- Typos de fuente de letras corporativas
+
+//Font Family
+$font-family: 'Roboto', serif;
+$font-family_header: 'Roboto', serif;
+$playfair: 'Playfair Display', serif;
+
+// Font Weight
+$semi-regular-weight: 400;
+$regular-weight: 500;
+$semi-bold-weight: 600;
+$bold-weight: 700;
+
+// Font Sizes
+
+$xx-large-size: 70px;
+$x-large-size: 30px;
+$large-size: 18px;
+$medium-size: 16px;
+$small-size: 12px;
+$mini-size: 8px;
+
+$primary:$eerie-black;
+$secondary:$nickel;
+$footer:$eerie-black;
+$header_height:100vh;
+$header_img:url("../images/post-image.jpg");
